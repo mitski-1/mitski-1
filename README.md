@@ -16,10 +16,10 @@ Technologies & Tools I Use
 
 🌱 Projects
 I have only made one not so fully functional project yet, it was for a hackathon.
+[Public Transit Crowd Predictor](https://github.com/mitski-1/Public-Transit-Predictor)
 
 
-👯 Connect with Me
-- [LinkedIn](www.linkedin.com/in/tanisha-choudhary-4b8389289)
+👯 Connect with Me on [LinkedIn](www.linkedin.com/in/tanisha-choudhary-4b8389289)
 
 
 🤝 Open to learning and creating together
