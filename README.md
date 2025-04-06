@@ -8,6 +8,8 @@ About Me
 - 💬 You could ask me anything about: Aviation!!
 
 Technologies & Tools I Use
+![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)
+![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=cplusplus)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
