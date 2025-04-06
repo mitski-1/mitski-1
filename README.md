@@ -14,16 +14,19 @@ Technologies & Tools I Use
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
 
-🌱 Projects
-I have only made one not so fully functional project yet, it was for a hackathon.
+🌱 
+I have only made one not so fully functional project yet, it was for a hackathon
 [Public Transit Crowd Predictor](https://github.com/mitski-1/Public-Transit-Predictor)
 
 
-👯 Connect with Me on [LinkedIn](www.linkedin.com/in/tanisha-choudhary-4b8389289)
+👯
+Connect with Me on [LinkedIn](www.linkedin.com/in/tanisha-choudhary-4b8389289)
 
 
-🤝 Open to learning and creating together
-I'd love to collaborate with fellow students or anyone interested in learning and creating. If you want to work on projects together, feel free to reach out!
+🤝 
+Open to learning and creating together
+I'd love to collaborate with fellow students or anyone interested in learning and creating. 
+If you want to work on projects together, feel free to reach out!
 
 
 Thanks for visiting my profile!😊
